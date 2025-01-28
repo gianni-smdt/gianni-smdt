@@ -1,5 +1,8 @@
-# Languages and Tools:
+# About Myself:
+- Computer Science student from Germany
+- 23 years old
 
+# Languages and Tools:
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -60,7 +63,7 @@
   </a>
 </p>
 
----
+# My Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gianni-smdt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
