@@ -34,6 +34,9 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
+  <a href="https://zed.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.brandfetch.io/idd89H35Hf/w/104/h/104/theme/dark/logo.png?c=1bfwsmEH20zzEfSNTed" alt="zed" width="40" height="40"/>
+  </a>
   <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spyder/spyder-original.svg" alt="spyder" width="40" height="40"/>
   </a>
