@@ -1,6 +1,3 @@
-# About Myself:
-- I’m currently a computer science student at University of Applied Sciences Schmalkalden
-
 # Languages and Tools:
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
