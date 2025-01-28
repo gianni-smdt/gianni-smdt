@@ -1,4 +1,4 @@
-# 🧰 Languages and Tools:
+# Languages and Tools:
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
