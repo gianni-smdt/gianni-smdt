@@ -1,3 +1,7 @@
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=39ff39&background=000000&center=true&vCenter=true&width=850&lines=Welcome+to+my+profile!;Welcome+to+my+profile!" style="border:4px groove #1de9a1;box-shadow:0px 0px 10px #aaf517;" alt="Typing SVG" /></a>
+  <br/>
+
 # Languages and Tools:
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
