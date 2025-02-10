@@ -78,6 +78,9 @@
   <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spyder/spyder-original.svg" alt="spyder" width="40" height="40"/>
   </a>
+  <a href="https://bluefish.openoffice.nl/index.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bluefish-icon.svg/2048px-Bluefish-icon.svg.png" alt="bluefish" width="40" height="40"/>
+  </a>
 </p>
 <h3 align="left">Hardware & OS:</h3>
 <p align="left">
