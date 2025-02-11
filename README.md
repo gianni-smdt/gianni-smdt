@@ -1,7 +1,15 @@
 <div align="center">
   <!-- Animated Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=180&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </div>
+
+<!-- About Myself Section -->
+<h2 align="center">About Myself:</h2>
+<ul>
+  <li>Computer Science student from Germany</li>
+  <li>23 years old</li>
+  <li>Currently studying at the University of Applied Sciences Schmalkalden</li>
+</ul>
 
 <!-- Tech Stack Section -->
 <h2 align="center">My Skills:</h2>
