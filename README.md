@@ -1,9 +1,7 @@
 <div align="center">
-  <!-- Animated Banner -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=180&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </div>
 
-<!-- About Myself Section -->
 <p align="left"></p>
 <h2 align="left">About Myself:</h2>
 <ul>
@@ -11,7 +9,6 @@
   <li>Currently studying at the University of Applied Sciences Schmalkalden</li>
 </ul>
 
-<!-- Tech Stack Section -->
 <p align="left"></p>
 <h2 align="left">My Skills:</h2>
 <h3 align="left">Programming & Scripting Languages:</h3>
@@ -111,10 +108,8 @@
   </a>
 </p>
 
-<!-- Tech Stack Section -->
 <p align="left"></p>
 <h2 align="left">Some Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianni-smdt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 <br>
 <img src="https://komarev.com/ghpvc/?username=gianni-smdt&color=blue&style=flat-square" alt="Profile Views" />
-
