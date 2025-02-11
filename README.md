@@ -1,15 +1,15 @@
-<div style="border: 4px solid #1de9a1; padding: 10px; display: inline-block; box-shadow: 0px 0px 10px #aaf517;">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=6000&size=38&duration=5304&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;Welcome+to+my+profile!" />
+<div align="center">
+  <!-- Animated Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </div>
 
-<!--<h1 align="center">Welcome to my profile!</h1>-->
-
-<p align="left">
-</p>
-<h2 align="left">My Skills:</h2>
-<h3 align="left">Programming & Scripting Languages:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+<!-- Tech Stack Section -->
+<h2 align="center">My Skills:</h2>
+<details>
+<summary>Programming & Scripting Languages</summary>
+<br>
+<p align="center">
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer">
@@ -28,9 +28,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
   </a>
 </p>
-<h3 align="left">Tools & IDEs:</h3>
-<p align="left">
-  <a href="https://gcc.gnu.org" target="_blank" rel="noreferrer">
+</details>
+
+<details>
+<summary>Tools & IDEs</summary>
+<br>
+<p align="center">
+    <a href="https://gcc.gnu.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/>
    </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
@@ -82,9 +86,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bluefish-icon.svg/2048px-Bluefish-icon.svg.png" alt="bluefish" width="40" height="40"/>
   </a>
 </p>
-<h3 align="left">Hardware & OS:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+</details>
+
+<details>
+<summary>Hardware & OS</summary>
+<br>
+<p align="center">
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
@@ -103,8 +111,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </a>
 </p>
+</details>
 
-## Some Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gianni-smdt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-#
-![Profile Views](https://komarev.com/ghpvc/?username=gianni-smdt&color=blue&style=flat-square)
+<!-- Tech Stack Section -->
+<h2 align="center">Some Stats:</h2>
+<br>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianni-smdt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=gianni-smdt&color=blue&style=flat-square" alt="Profile Views" />
+</p>
