@@ -3,13 +3,6 @@
 </div>
 
 <p align="left"></p>
-<h2 align="left">About Myself:</h2>
-<ul>
-  <li>Computer Science student from Germany</li>
-  <li>Currently studying at the University of Applied Sciences Schmalkalden</li>
-</ul>
-
-<p align="left"></p>
 <h2 align="left">My Skills:</h2>
 <h3 align="left">Programming & Scripting Languages:</h3>
 <p align="left">
