@@ -3,7 +3,7 @@
 </div>
 
 <p align="left"></p>
-<h2 align="left">My Skills:</h2>
+<h2 align="left">Technologies:</h2>
 <h3 align="left">Programming & Scripting Languages:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
