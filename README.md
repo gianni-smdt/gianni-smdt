@@ -100,9 +100,6 @@
   <a href="https://www.debian.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
   </a>
-  <a href="https://www.debian.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
-  </a>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
   </a>
