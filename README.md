@@ -3,6 +3,13 @@
 </div>
 
 <p align="left"></p>
+<h2 align="left">About Me:</h2>
+<p align="left">
+- Computer Science (B.Sc.) student from Thurigia, Germany<br>
+- I'm interested in Database Systems, Data Engineering & Big Data<br>
+- You can find some scripts for administration purposes and project codes for my lectures here
+</p>
+<p align="left"></p>
 <h2 align="left">Technologies:</h2>
 <h3 align="left">Programming & Scripting Languages:</h3>
 <p align="left">
@@ -93,8 +100,14 @@
   <a href="https://www.debian.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
   </a>
+  <a href="https://www.debian.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
+  </a>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
+  </a>
+    <a href="https://www.opensuse.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/opensuse/opensuse-original.svg" alt="opensuse" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
