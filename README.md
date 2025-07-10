@@ -3,7 +3,7 @@
 </div>
 
 <p align="left"></p>
-<h2 align="left">About Me:</h2>
+<h2 align="left">About Me & My Profile:</h2>
 <p align="left">
 - Computer Science (B.Sc.) student from Thuringia, Germany<br>
 - I'm interested in Database Systems, Data Engineering & Big Data<br>
