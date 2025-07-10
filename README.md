@@ -11,6 +11,15 @@
 </p>
 <p align="left"></p>
 <h2 align="left">Technologies:</h2>
+<h3 align="left">Currently Used Operating Systems</h3>
+<p align="left">
+  <a href="https://www.opensuse.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/opensuse/opensuse-original.svg" alt="opensuse" width="40" height="40"/>
+  </a>
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
+  </a>
+</p>
 <h3 align="left">Programming & Scripting Languages:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -32,7 +41,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
   </a>
 </p>
-<h3 align="left">Tools & IDEs:</h3>
+<h3 align="left">Database Systems</h3>
+<p align="left">
+  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://mariadb.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqldeveloper/sqldeveloper-original.svg" alt="sqldeveloper" width="40" height="40"/>
+  </a>
+</p>
+<h3 align="left">Other Tools</h3>
 <p align="left">
   <a href="https://gcc.gnu.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/>
@@ -61,18 +85,6 @@
   <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/putty/putty-original.svg" alt="putty" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://mariadb.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqldeveloper/sqldeveloper-original.svg" alt="sqldeveloper" width="40" height="40"/>
-  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
@@ -85,29 +97,11 @@
   <a href="https://bluefish.openoffice.nl/index.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bluefish-icon.svg/2048px-Bluefish-icon.svg.png" alt="bluefish" width="40" height="40"/>
   </a>
-</p>
-<h3 align="left">Hardware & OS:</h3>
-<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
-  </a>
-  <a href="https://kernel.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.debian.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
-  </a>
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
-  </a>
-    <a href="https://www.opensuse.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/opensuse/opensuse-original.svg" alt="opensuse" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </a>
 </p>
 
