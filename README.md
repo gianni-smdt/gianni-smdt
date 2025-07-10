@@ -7,7 +7,7 @@
 <p align="left">
 - Computer Science (B.Sc.) student from Thuringia, Germany<br>
 - I'm interested in Database Systems, Data Engineering & Big Data<br>
-- You can find some scripts for administration purposes and project codes for my lectures here
+- You can find some scripts for administration purposes and codes of lecture projects here
 </p>
 <p align="left"></p>
 <h2 align="left">Technologies:</h2>
