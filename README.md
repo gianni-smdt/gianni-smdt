@@ -5,7 +5,7 @@
 <p align="left"></p>
 <h2 align="left">About Me:</h2>
 <p align="left">
-- Computer Science (B.Sc.) student from Thurigia, Germany<br>
+- Computer Science (B.Sc.) student from Thuringia, Germany<br>
 - I'm interested in Database Systems, Data Engineering & Big Data<br>
 - You can find some scripts for administration purposes and project codes for my lectures here
 </p>
