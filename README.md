@@ -49,8 +49,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqldeveloper/sqldeveloper-original.svg" alt="sqldeveloper" width="40" height="40"/>
+  <a href="https://www.cockroachlabs.com/" target="_blank" rel="noreferrer">
+    <img src="https://dbdb.io/media/logos/cockroachdb.png" alt="cockroachdb" width="40" height="40"/>
   </a>
 </p>
 <h3 align="left">Other Tools</h3>
