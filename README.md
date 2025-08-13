@@ -31,6 +31,9 @@
   <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
   </a>
+  <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer">
+    <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" alt="plsql" width="40" height="40"/>
+  </a>
 </p>
 <h3 align="left">Database Systems</h3>
 <p align="left">
