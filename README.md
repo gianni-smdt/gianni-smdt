@@ -105,7 +105,7 @@
     <img src="https://store-images.s-microsoft.com/image/apps.9767.0c14ad69-bde1-42a8-af91-748b1ce59d19.304bbe98-a5f9-4064-a134-8dbb7c03f575.0df5ed49-a8b2-45bc-a033-ef0978445d17" alt="freebsd" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <img src="https://images.seeklogo.com/logo-png/40/1/windows-11-icon-logo-png_seeklogo-406208.png" alt="windows" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
   </a>
 </p>
 
