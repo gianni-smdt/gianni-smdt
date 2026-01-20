@@ -6,7 +6,7 @@
 <h2 align="left">About me & my profile:</h2>
 <p align="left">
 - Computer Science (B.Sc.) student at the University of Applied Sciences Schmalkalden, Germany<br>
-- Interests: Database Systems, Data Engineering & Big Data<br>
+- Interests: Database Systems, System & Network Administration, FOSS<br>
 - You can find some scripts for administration purposes and codes from university projects here<br>
 </p>
 <p align="left"></p>
