@@ -8,7 +8,6 @@
 - Computer Science (B.Sc.) student at the University of Applied Sciences Schmalkalden, Germany<br>
 - Interests: Database Systems, Data Engineering & Big Data<br>
 - You can find some scripts for administration purposes and codes from university projects here<br>
-- Follow me on <a rel="me" href="https://fosstodon.org/@giannismdt">Mastodon</a>
 </p>
 <p align="left"></p>
 <h2 align="left">Technologies:</h2>
