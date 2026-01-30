@@ -7,7 +7,7 @@
 <p align="left">
 - Computer Science (B.Sc.) student at the University of Applied Sciences Schmalkalden, Germany<br>
 - Interests: Database Systems, System & Network Administration, FOSS<br>
-- You can find some scripts for administration purposes and codes from university projects here<br>
+- You can find some scripts for administration purposes, codes from university projects and some codes from spontaneous projects here<br>
 </p>
 <p align="left"></p>
 <h2 align="left">Technologies:</h2>
