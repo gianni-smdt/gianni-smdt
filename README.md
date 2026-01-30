@@ -106,8 +106,4 @@
   </a>
 </p>
 
-<p align="left"></p>
-<h2 align="left">Some Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianni-smdt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-<br>
 <img src="https://komarev.com/ghpvc/?username=gianni-smdt&color=blue&style=flat-square" alt="Profile Views" />
