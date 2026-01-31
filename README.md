@@ -73,6 +73,9 @@
   <a href="https://prosody.im/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Prosody.svg/1280px-Prosody.svg.png" alt="prosody" width="40" height="40"/>
   </a>
+  <a href="http://www.proftpd.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.netdata.cloud/img/proftpd.png" alt="proftpd" width="40" height="40"/>
+  </a>
 </p>
 <h3 align="left">Other Tools</h3>
 <p align="left">
