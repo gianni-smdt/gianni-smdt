@@ -93,16 +93,13 @@
   </a>
   
 </p>
-<h3 align="left">Currently Used Operating Systems</h3>
+<h3 align="left">Currently Used OS</h3>
 <p align="left">
   <a href="https://www.opensuse.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/opensuse/opensuse-original.svg" alt="opensuse" width="40" height="40"/>
   </a>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
   </a>
 </p>
 
