@@ -34,6 +34,9 @@
   <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer">
     <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" alt="plsql" width="40" height="40"/>
   </a>
+  <a href="https://www.tug.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tex/tex-original.svg" alt="tex" width="40" height="40"/>
+  </a>
 </p>
 <h3 align="left">Database Systems</h3>
 <p align="left">
