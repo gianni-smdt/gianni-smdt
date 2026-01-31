@@ -70,6 +70,9 @@
   <a href="https://www.wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
   </a>
+  <a href="https://prosody.im/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Prosody.svg/1280px-Prosody.svg.png" alt="prosody" width="40" height="40"/>
+  </a>
 </p>
 <h3 align="left">Other Tools</h3>
 <p align="left">
