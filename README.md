@@ -117,7 +117,7 @@
   </a>
   
 </p>
-<h3 align="left">Currently Used OS</h3>
+<h3 align="left">Currently used OS</h3>
 <p align="left">
   <a href="https://www.opensuse.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/opensuse/opensuse-original.svg" alt="opensuse" width="40" height="40"/>
