@@ -100,6 +100,9 @@
   <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="putty" width="40" height="40"/>
   </a>
+  <a href="https://github.com/fail2ban/fail2ban" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Fail2ban_logo.png" alt="fail2ban" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
