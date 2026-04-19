@@ -7,9 +7,9 @@
 I'm an Industrial IT Administrator with a strong passion for network engineering, database systems and scripting activities. 
 </p>
 
-- 👨‍💻 I’m currently working on web development technologies like PHP & Laravel.
-- 📚 I’m currently learning about Frontend and Backend technologies.
-- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
+- 👨‍💻 I’m ..
+- 📚 I’m .
+- 🎯 Future Goals: .
   
 ### 📫 Social links
 <p>
