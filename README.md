@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-- 📍 I'm an Industrial IT Administrator from Germany with a strong passion for network engineering, database systems and scripting activities. 
+- 📍 Industrial IT Administrator from Germany with a strong passion for network engineering, database systems and scripting activities. 
 - 🎓 I gratuated in Computer Science at the University of Applied Sciences Schmalkalden.
 - 📚 FOSS advocate (but sometimes also a sinner in this context).
 - 🎯 Future Goals: Expanding my knowledge, helping fellow coders with my ideas.
